@@ -1,0 +1,23 @@
+/* Website styleing for https://jammin-coder.github.io/css-reset/ */
+
+body {
+    padding: 2em;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+main {
+    display: grid;
+    gap: 1rem;
+}
+
+code {
+    display: inline-block;
+    margin: 0.5em 0;
+    background-color: #ccc;
+    padding: 0.2em 0.5em;
+    color: rgb(53, 53, 53);
+    border-radius: 0.2em;
+}
